@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #7c7c7c;
 }
 
 header {
@@ -18,7 +18,7 @@ nav ul {
 }
 
 nav ul li {
-    display: inline;
+    display:inline;
     margin: 0 10px;
 }
 
@@ -66,4 +66,8 @@ footer {
     position: relative;
     width: 100%;
     bottom: 0;
+}
+
+iframe {
+    max-width: 90%;
 }
